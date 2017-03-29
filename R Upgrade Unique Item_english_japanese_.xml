@@ -1,0 +1,743 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>R Upgrade Unique Item4.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <EDID>rrrArmorThievesGuildHelmetPlayer</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Thieves Guild Hood</Source>
+      <Dest>盗賊ギルドのフード</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrArmorThievesGuildCuirassPlayer</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Thieves Guild Armor</Source>
+      <Dest>盗賊ギルドの鎧</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrArmorThievesGuildGauntletsPlayer</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Thieves Guild Gloves</Source>
+      <Dest>盗賊ギルドの手袋</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrArmorThievesGuildBootsPlayer</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Thieves Guild Boots</Source>
+      <Dest>盗賊ギルドのブーツ</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrArmorThievesGuildHelmetPlayerImproved</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Thieves Guild Hood</Source>
+      <Dest>盗賊ギルドのフード</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrArmorThievesGuildCuirassPlayerImproved</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Thieves Guild Armor</Source>
+      <Dest>盗賊ギルドの鎧</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrArmorThievesGuildGauntletsPlayerImproved</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Thieves Guild Gloves</Source>
+      <Dest>盗賊ギルドの手袋</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrArmorThievesGuildBootsPlayerImproved</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Thieves Guild Boots</Source>
+      <Dest>盗賊ギルドのブーツ</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrArmorThievesGuildLeaderHelmet</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Guild Master&apos;s Hood</Source>
+      <Dest>ギルドマスターのフード</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrArmorThievesGuildLeaderCuirass</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Guild Master&apos;s Armor</Source>
+      <Dest>ギルドマスターの鎧</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrArmorThievesGuildLeaderGauntlets</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Guild Master&apos;s Gloves</Source>
+      <Dest>ギルドマスターの手袋</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrArmorThievesGuildLeaderBoots</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Guild Master&apos;s Boots</Source>
+      <Dest>ギルドマスターのブーツ</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrArmorLinweHelmet</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Linwe&apos;s Hood</Source>
+      <Dest>リンウェのフード</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrArmorLinweCuirass</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Linwe&apos;s Armor</Source>
+      <Dest>リンウェの鎧</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrArmorLinweGauntlets</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Linwe&apos;s Gloves</Source>
+      <Dest>リンウェの手袋</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrArmorLinweBoots</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Linwe&apos;s Boots</Source>
+      <Dest>リンウェのブーツ</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrArmorNightingaleHelmetPlayer01</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Nightingale Hood</Source>
+      <Dest>ナイチンゲールのフード</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrArmorNightingaleCuirassPlayer01</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Nightingale Armor</Source>
+      <Dest>ナイチンゲールの鎧</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrArmorNightingaleGauntletsPlayer01</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Nightingale Gloves</Source>
+      <Dest>ナイチンゲールの手袋</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrArmorNightingaleBootsPlayer01</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Nightingale Boots</Source>
+      <Dest>ナイチンゲールのブーツ</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrArmorNightingaleHelmetPlayer02</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Nightingale Hood</Source>
+      <Dest>ナイチンゲールのフード</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrArmorNightingaleCuirassPlayer02</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Nightingale Armor</Source>
+      <Dest>ナイチンゲールの鎧</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrArmorNightingaleGauntletsPlayer02</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Nightingale Gloves</Source>
+      <Dest>ナイチンゲールの手袋</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrArmorNightingaleBootsPlayer02</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Nightingale Boots</Source>
+      <Dest>ナイチンゲールのブーツ</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrArmorNightingaleHelmetPlayer03</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Nightingale Hood</Source>
+      <Dest>ナイチンゲールのフード</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrArmorNightingaleCuirassPlayer03</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Nightingale Armor</Source>
+      <Dest>ナイチンゲールの鎧</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrArmorNightingaleGauntletsPlayer03</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Nightingale Gloves</Source>
+      <Dest>ナイチンゲールの手袋</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrArmorNightingaleBootsPlayer03</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Nightingale Boots</Source>
+      <Dest>ナイチンゲールのブーツ</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrMS02ForswornHelmet</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Helmet of the Old Gods</Source>
+      <Dest>古き神々の兜</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrMS02ForswornArmor</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Armor of the Old Gods</Source>
+      <Dest>古き神々の鎧</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrMS02ForswornGauntlets</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Gauntlets of the Old Gods</Source>
+      <Dest>古き神々の篭手</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrMS02ForswornBoots</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Boots of the Old Gods</Source>
+      <Dest>古き神々のブーツ</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDBArmorHelmet</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Shrouded Cowl</Source>
+      <Dest>暗殺者の頭巾</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDBArmorHelmetMaskLess</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Shrouded Cowl Maskless</Source>
+      <Dest>暗殺者のマスクなし頭巾</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDBArmor</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Shrouded Armor</Source>
+      <Dest>暗殺者の軽装鎧</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDBArmorShortSleeve</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Shrouded Armor</Source>
+      <Dest>暗殺者の軽装鎧</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDBArmorGloves</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Shrouded Gloves</Source>
+      <Dest>暗殺者の手袋</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDBArmorGlovesReward</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tumblerbane Gloves</Source>
+      <Dest>タンブラーベインの手袋</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDBArmorBoots</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Shrouded Boots</Source>
+      <Dest>暗殺者のブーツ</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDBArmorHelmetSP</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Ancient Shrouded Cowl</Source>
+      <Dest>太古の暗殺者の頭巾</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDBArmorSP</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Ancient Shrouded Armor</Source>
+      <Dest>太古の暗殺者の軽装鎧</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDBArmorGlovesSP</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Ancient Shrouded Gloves</Source>
+      <Dest>太古の暗殺者の手袋</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDBArmorBootsSP</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Ancient Shrouded Boots</Source>
+      <Dest>太古の暗殺者のブーツ</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDLC2TGArmorVariantHood</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Blackguard&apos;s Hood</Source>
+      <Dest>ブラックガードのフード</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDLC2TGArmorVariantCuirass</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Blackguard&apos;s Armor</Source>
+      <Dest>ブラックガードの鎧</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDLC2TGArmorVariantGloves</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Blackguard&apos;s Gloves</Source>
+      <Dest>ブラックガードの手袋</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDLC2TGArmorVariantBoots</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Blackguard&apos;s Boots</Source>
+      <Dest>ブラックガードのブーツ</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDLC2dunHaknirArmorHelm</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Deathbrand Helm</Source>
+      <Dest>デスブランドのヘルム</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDLC2dunHaknirArmorCuirass</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Deathbrand Armor</Source>
+      <Dest>デスブランドの鎧</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDLC2dunHaknirArmorGauntlets</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Deathbrand Gauntlets</Source>
+      <Dest>デスブランドの篭手</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDLC2dunHaknirArmorBoots</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Deathbrand Boots</Source>
+      <Dest>デスブランドのブーツ</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDLC1AurielsBow</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Auriel&apos;s Bow</Source>
+      <Dest>アーリエルの弓</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDA09Dawnbreaker</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Dawnbreaker</Source>
+      <Dest>ドーンブレイカー</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDA08EbonyBlade</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Ebony Blade</Source>
+      <Dest>黒檀の剣</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrMGRKeening</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Keening</Source>
+      <Dest>キーニング</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDA10MaceofMolagBal</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Mace of Molag Bal</Source>
+      <Dest>モラグ・バルのメイス</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDA07MehrunesRazor</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Mehrunes&apos; Razor</Source>
+      <Dest>メエルーンズのカミソリ</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDA06Volendrung</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Volendrung</Source>
+      <Dest>ヴォレンドラング</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrC06BladeOfYsgramor</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Wuuthrad</Source>
+      <Dest>ウースラド</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDBAlainAegisbane</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Aegisbane</Source>
+      <Dest>エイジスベイン</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDLC1AkaviriSword</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Akaviri Sword</Source>
+      <Dest>アカヴィリの剣</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrdunAngisBow</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Angi&apos;s Bow</Source>
+      <Dest>アンジーの弓</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDA02Dagger</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Blade of Sacrifice</Source>
+      <Dest>生けにえの刀剣</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDBBladeOfWoeReward</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Blade of Woe</Source>
+      <Dest>悲痛の短剣</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDLC2BloodskalBlade</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Bloodskal Blade</Source>
+      <Dest>ブラッドスカルの剣</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDLC2dunHaknirScimitar01</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Bloodscythe</Source>
+      <Dest>ブラッドサイズ</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrdunHagsEndDagger</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Bloodthorn</Source>
+      <Dest>ブラッドソーン</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrdunBloatedMansKatana</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Bolar&apos;s Oathblade</Source>
+      <Dest>ボラーの忠誠剣</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrPOIMageBorvirsDagger</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Borvir&apos;s Dagger</Source>
+      <Dest>ボルビルのダガー</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrdunClearspringTarnBowOfHunt</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Bow of the Hunt</Source>
+      <Dest>狩りの弓</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDLC2RR01FalxWarhammer</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Champion&apos;s Cudgel</Source>
+      <Dest>勇者のハンマー</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDLC1DawnguardRuneAxe</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Dawnguard Rune Axe</Source>
+      <Dest>ドーンガードのルーンの斧</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDLC1DawnguardRuneHammer</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Dawnguard Rune Hammer</Source>
+      <Dest>ドーンガードのルーンのハンマー</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDragonPriestDagger</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Dragon Priest Dagger</Source>
+      <Dest>ドラゴン・プリーストのダガー</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrMG07DraugrMagicAxe</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Drainblood Battleaxe</Source>
+      <Dest>血吸いの両手斧</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrMG07DraugrMagicSword</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Drainheart Sword</Source>
+      <Dest>吸精の霊剣</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrMG07DraugrMagicBow</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Drainspell Bow</Source>
+      <Dest>吸魔の霊弓</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDLC2KagrumezFateBow01</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Dwarven Black Bow of Fate</Source>
+      <Dest>ドワーフの運命の黒弓</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrdunVolunruudEduj</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Eduj</Source>
+      <Dest>エドジュ</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDB05ElvenBow</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Firiniel&apos;s End</Source>
+      <Dest>フィリニエルズエンド</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrdunHuntersBow</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Froki&apos;s Bow</Source>
+      <Dest>フローキの弓</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrdunAnsilvundGhostblade</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Ghostblade</Source>
+      <Dest>ゴーストブレイド</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrdlc2MerchBowOfTheStagPrince</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Glass Bow of the Stag Prince</Source>
+      <Dest>鹿の王子の碧水晶の弓</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDLC1HarkonsSword</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Harkon&apos;s Sword</Source>
+      <Dest>ハルコンの剣</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDLC2dunKolbjornRalisPickaxe</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Hoarfrost</Source>
+      <Dest>ホアフロスト</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDLC2Horksbane</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Horksbane</Source>
+      <Dest>ホルクスベイン</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrdunLiarsRetreatLonghammer</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>The Longhammer</Source>
+      <Dest>ロングハンマー</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrT03Nettlebane</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Nettlebane</Source>
+      <Dest>ネトルベイン</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrdunVolunruudPickaxe</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Notched Pickaxe</Source>
+      <Dest>刻み目のあるつるはし</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrdunVolunruudOkin</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Okin</Source>
+      <Dest>オキン</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrdunHaltedStreamPoachersAxe</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Poacher&apos;s Axe</Source>
+      <Dest>密猟者の斧</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrdunRedEagleSwordUpgraded</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Red Eagle&apos;s Bane</Source>
+      <Dest>赤鷲の破滅</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrPOIMageRundisDagger</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Rundi&apos;s Dagger</Source>
+      <Dest>ルンディのダガー</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrMS02Shiv</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Shiv</Source>
+      <Dest>ナイフ</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDLC2dunHaknirScimitar02</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Soulrender</Source>
+      <Dest>ソウルレンダー</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrEnchSteelBattleaxeFierySouls</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Steel Battleaxe of Fiery Souls</Source>
+      <Dest>鋼鉄の両手斧(火炎の魂)</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDLC2dunBrodirGroveStormfang</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Stormfang</Source>
+      <Dest>ストームファング</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrdunPOITrollsbane</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Trollsbane</Source>
+      <Dest>トロールズベイン</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrdunPinewoodGroveWoodsmansFriend</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>The Woodsman&apos;s Friend</Source>
+      <Dest>森の人の仲間</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrdunMossMotherValdrDagger</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Valdr&apos;s Lucky Dagger</Source>
+      <Dest>ヴァルドルの幸運のダガー</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrdunKatariahScimitar</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Windshear</Source>
+      <Dest>ウィンドシア</Dest>
+    </String>
+    <String List="0">
+      <EDID>rrrDLC1LD_KatriaBow</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Zephyr</Source>
+      <Dest>ゼフィール</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrDBArmorGloves</EDID>
+      <REC>ARMO:DESC</REC>
+      <Source>Backstab does double damage.</Source>
+      <Dest>バックスタブのダメージが2倍になる。</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrDLC2dunHaknirArmorHelm</EDID>
+      <REC>ARMO:DESC</REC>
+      <Source>Waterbreathing. +&lt;100&gt; Armor while wearing a complete set of Deathbrand Armor.</Source>
+      <Dest>水中呼吸が可能になる。デスブランドの鎧一式を装備すると、防御値が &lt;100&gt; 増加する。</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrDLC2dunHaknirArmorCuirass</EDID>
+      <REC>ARMO:DESC</REC>
+      <Source>Increases your Stamina by &lt;15&gt; for each Deathbrand Item you wear.</Source>
+      <Dest>デスブランドを1つ装備する毎に、スタミナが &lt;15&gt; ポイント増加する。</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrDLC2dunHaknirArmorGauntlets</EDID>
+      <REC>ARMO:DESC</REC>
+      <Source>While dual-wielding, your one-handed attacks do &lt;10&gt;% more damage for each Deathbrand item you wear.</Source>
+      <Dest>二刀流にすると、デスブランドを1つ装備する毎に、片手攻撃によるダメージが &lt;10&gt;%増加する。</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrDLC2dunHaknirArmorBoots</EDID>
+      <REC>ARMO:DESC</REC>
+      <Source>Increases your carrying capacity by &lt;10&gt; for each Deathbrand Item you wear.</Source>
+      <Dest>デスブランドを1つ装備する毎に、持ち運べる重量が &lt;10&gt; 増加する。</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrDA08EbonyBlade</EDID>
+      <REC>WEAP:DESC</REC>
+      <Source>Absorbs the life essence of your foes. Strengthened by the blood of deceit.</Source>
+      <Dest>敵から生命のエキスを吸収する。裏切りの血によって強化される。</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrC06BladeOfYsgramor</EDID>
+      <REC>WEAP:DESC</REC>
+      <Source>Especially deadly to elves</Source>
+      <Dest>エルフには特に危険である</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrDLC2BloodskalBlade</EDID>
+      <REC>WEAP:DESC</REC>
+      <Source>Releases energy blast with power attacks that deals 30 damage.</Source>
+      <Dest>強力なエネルギーを爆発させ、30ダメージを与える。</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrDLC2dunHaknirScimitar01</EDID>
+      <REC>WEAP:DESC</REC>
+      <Source>When wielded with Soulrender, absorbs &lt;15&gt; health and has a chance to weaken enemy armor.</Source>
+      <Dest>ソウルレンダーと共に使用すると、体力を &lt;15&gt; 吸収する。敵の防御を弱体化する可能性がある。</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrDLC1DawnguardRuneHammer</EDID>
+      <REC>WEAP:DESC</REC>
+      <Source>Bashing places a rune on a nearby surface; the rune explodes for 50 points of fire damage when enemies come near.</Source>
+      <Dest>バッシュすると近くの平面にルーンが書き込まれ、敵が近くに来ると爆発して50ポイントの火炎ダメージを与える。</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrdunAnsilvundGhostblade</EDID>
+      <REC>WEAP:DESC</REC>
+      <Source>Does &lt;3&gt; points of extra damage, ignoring armor.</Source>
+      <Dest>防具を無視して、 &lt;3&gt; ポイントの追加ダメージを与える。</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrDLC1HarkonsSword</EDID>
+      <REC>WEAP:DESC</REC>
+      <Source>Absorbs &lt;15&gt; points of Health, Magicka, and Stamina if wielded by a vampire.</Source>
+      <Dest>吸血鬼が使用すると体力、マジカ、スタミナを &lt;15&gt; ポイント吸収できる。</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrDLC2dunKolbjornRalisPickaxe</EDID>
+      <REC>WEAP:DESC</REC>
+      <Source>Targets take &lt;15&gt; points of frost damage to Health and Stamina, and have a small chance of being frozen solid.</Source>
+      <Dest>対象は &lt;15&gt; ポイントの冷気ダメージを体力とスタミナに受ける。低確率で凍結する可能性がある。</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrDLC2Horksbane</EDID>
+      <REC>WEAP:DESC</REC>
+      <Source>Especially effective against horkers.</Source>
+      <Dest>ホーカーに対しては特に効果がある。</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrdunLiarsRetreatLonghammer</EDID>
+      <REC>WEAP:DESC</REC>
+      <Source>Rahd&apos;s hammer, the reduced weight allows it to be swung more quickly.</Source>
+      <Dest>ラハドのハンマー。軽量化により、さらに素早く振り回せる。</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrdunHaltedStreamPoachersAxe</EDID>
+      <REC>WEAP:DESC</REC>
+      <Source>&lt;3&gt; points of extra damage to Animals.</Source>
+      <Dest>動物に対して &lt;3&gt; ポイントの追加ダメージ。</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrDLC2dunHaknirScimitar02</EDID>
+      <REC>WEAP:DESC</REC>
+      <Source>When wielded with Bloodscythe, absorbs &lt;15&gt; magicka and and has a chance to dispel magical defenses.</Source>
+      <Dest>ブラッドサイズと共に使用すると、マジカを &lt;15&gt; 吸収する。魔法の防御を解呪する可能性がある。</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrdunMossMotherValdrDagger</EDID>
+      <REC>WEAP:DESC</REC>
+      <Source>25% chance of a critical hit.</Source>
+      <Dest>25%の確率でクリティカルヒットする。</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrdunKatariahScimitar</EDID>
+      <REC>WEAP:DESC</REC>
+      <Source>Bash attacks made with this weapon have a chance of knocking enemies down.</Source>
+      <Dest>この武器でバッシュ攻撃を行うと、敵が転倒する可能性がある。</Dest>
+    </String>
+    <String List="1">
+      <EDID>rrrDLC1LD_KatriaBow</EDID>
+      <REC>WEAP:DESC</REC>
+      <Source>Fires &lt;30&gt;% faster than a standard bow.</Source>
+      <Dest>標準的な弓よりも &lt;30&gt;% 速く射ることができる。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
